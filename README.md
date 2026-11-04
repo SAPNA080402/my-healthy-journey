@@ -1,0 +1,1 @@
+# My Healthy Journey\n\nInstallable wellness tracker for Android and desktop.\n\n## Publish with GitHub Pages\nRepository Settings → Pages → Deploy from a branch → `master` → `/(root)` → Save.\n\nThe tracker stores entries in browser local storage on the device. Do not commit exported health records; this repository is public.
